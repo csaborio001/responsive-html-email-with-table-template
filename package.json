@@ -1,0 +1,23 @@
+{
+  "name": "responsive-html-email-with-table-template",
+  "version": "0.0.1",
+  "description": "## Description",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csaborio001/responsive-html-email-with-table-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csaborio001/responsive-html-email-with-table-template/issues"
+  },
+  "homepage": "https://github.com/csaborio001/responsive-html-email-with-table-template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  }
+}
